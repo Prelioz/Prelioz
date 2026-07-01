@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I enjoy building things with AI, from machine learning models to GenAI applications. Currently exploring RAG systems, working on personal projects, and improving my problem-solving skills through Data Structures and Algorithms.<br>
 
 
